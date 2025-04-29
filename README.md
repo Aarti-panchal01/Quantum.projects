@@ -1,7 +1,7 @@
 # Quantum.projects
 
 A bunch of small quantum projects I’ve been working on—just for fun and learning. Most are beginner-friendly and use Python, Qiskit, and Streamlit. Nothing too fancy, just cool experiments to explore quantum concepts in an easy way.
-
+ 
 # 🧩 What's Inside
 
 🔐 QDotCrypt_Encryptor
