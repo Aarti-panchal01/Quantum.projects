@@ -22,9 +22,8 @@ Stock prices, but with a bit of quantum chaos. Not real predictions, just for ex
 
 # 💻 How to Run
 1. Clone it
-git clone https://github.com/your-username/Quantum.projects.git
+git clone https://github.com/Aarti-panchal01/Quantum.projects.git
 cd Quantum.projects
-
 
 2. Create a virtual environment
 python -m venv quantum_env
@@ -33,22 +32,19 @@ python -m venv quantum_env
 # On Mac/Linux
 source quantum_env/bin/activate
 
-
 3. Install project dependencies
 Each folder has its own requirements.txt. Example:
 cd quantum_dice_game
 pip install -r requirements.txt
 
-
 4. Run the project
 streamlit run app.py
 
 
-# 📝 Notes
+
+# 📝 Note
 These are all experimental projects, I thought these woild be great for learning and trying out ideas.
 These work best with Qiskit 1.0+, but some fall back to simulations as i was not on a quantum backend.
 Streamlit makes it easy to use, even without coding much.
-
-
 
 Made with ❤️ by @Aarti Panchal  — powered by Python, Qiskit, and Streamlit
