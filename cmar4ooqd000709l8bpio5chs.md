@@ -8,8 +8,6 @@ tags: python, opensource, quantum-computing, gamedev, qrng
 
 ---
 
-# 🎲 Rolling with Quantum: My Quantum Dice Game Powered by QRNG
-
 What happens when you combine quantum mechanics with a classic game of dice? You get unpredictability at a whole new level — and that’s exactly what I built! Welcome to my **Quantum Dice Game**, a fun experiment driven by **Quantum Random Number Generation (QRNG)**.
 
 ---
@@ -46,17 +44,6 @@ In this project, I used the principles of quantum uncertainty to simulate a dice
 
 ---
 
-## 📷 Preview
-
-![quantum_dice_game demo](https://your-screenshot-link.png align="left")
-
-  
-*Rolling the dice — quantum-style!*
-
-> *Tip: Replace the above image with your actual terminal screenshot or a stylized mockup of a quantum die.*
-
----
-
 ## 🧪 How QRNG Works (Briefly)
 
 QRNGs use quantum phenomena (like photon path uncertainty or electron spin) to generate numbers. Unlike classical RNGs that are deterministic at heart, QRNGs are inherently **non-deterministic**. This allows us to simulate outcomes with **true entropy**, making it ideal for cryptography, simulations, and — why not — games!
@@ -85,9 +72,9 @@ If you're into quantum computing, open source, or fun experiments like this — 
 
 * 🐙 GitHub: [Aarti-panchal01](https://github.com/Aarti-panchal01)
     
-* 💼 LinkedIn: [aarti-panchal-871647288](https://www.linkedin.com/in/aarti-panchal-871647288/)
+* 💼 LinkedIn: [aarti-panchal-871647288](https://www.linkedin.com/in/aarti-panchal-93196a319/)
     
-* 📧 Email: [aartipanchal.official@gmail.com](mailto:aartipanchal.official@gmail.com)
+* 📧 Email: [aartipanchal539@gmail.com](mailto:aartipanchal.official@gmail.com)
     
 
 ---
