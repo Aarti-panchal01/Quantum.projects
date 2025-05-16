@@ -8,8 +8,6 @@ tags: opensource, machine-learning, quantum-computing, datavisualization, quantu
 
 ---
 
-# 🔬 Visualizing Quantum States with Machine Learning — My `qdot_visualizer_ml` Project
-
 How do you understand something as complex and invisible as a quantum state? You **visualize it** — and better yet, you **enhance it with machine learning**.
 
 Welcome to **qdot\_visualizer\_ml**, a project I built to **simulate and visualize quantum states** in an interactive, intuitive way — powered by Python and enriched with ML.
@@ -45,17 +43,6 @@ It's like putting quantum logic under a microscope 🧬 — but with colors, plo
     
 * **Category**: Data Visualization + Quantum Simulation
     
-
----
-
-## 📷 Preview
-
-![qdot_visualizer_ml demo](https://your-image-link.png align="left")
-
-  
-*A visual take on qubit evolution — made clearer with ML.*
-
-> *Tip: Replace the above with a screenshot of your state visualizer interface or plotted quantum behavior.*
 
 ---
 
@@ -101,9 +88,9 @@ If you’re passionate about quantum, ML, or building cool tech, I’d love to c
 
 * 🐙 GitHub: [Aarti-panchal01](https://github.com/Aarti-panchal01)
     
-* 💼 LinkedIn: [aarti-panchal-871647288](https://www.linkedin.com/in/aarti-panchal-871647288/)
+* 💼 LinkedIn: [aarti-panchal](https://www.linkedin.com/in/aarti-panchal-93196a319/)
     
-* 📧 Email: [aartipanchal.official@gmail.com](mailto:aartipanchal.official@gmail.com)
+* 📧 Email: [aartipanchal539@gmail.com](mailto:aartipanchal.official@gmail.com)
     
 
 ---
