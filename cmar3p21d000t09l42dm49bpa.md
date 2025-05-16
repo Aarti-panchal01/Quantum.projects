@@ -75,4 +75,4 @@ Governments and companies like ID Quantique and IBM are already integrating QRNG
     
 * 💼 LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/aarti-panchal-93196a319/)
     
-* 📧 Email: aartipanchal.official@gmail.com
+* 📧 Email: aartipanchal539@gmail.com
